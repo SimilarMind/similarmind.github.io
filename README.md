@@ -1,5 +1,7 @@
 # [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
 
+**WARNING: This is a legacy verison of this template and is no longer actively developed. To view the most recent version, visit the master branch of this repo!**
+
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
 
 ## Getting Started
